@@ -1,0 +1,184 @@
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\FactoryProject.dll.config
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\FactoryProject.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\FactoryProject.pdb
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\csc.exe
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\csc.exe.config
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\csc.rsp
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\csi.exe
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\csi.exe.config
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\csi.rsp
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.AppContext.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Console.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Net.Http.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\vbc.exe
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\vbc.exe.config
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\vbc.rsp
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\Antlr3.Runtime.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\EntityFramework.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\EntityFramework.SqlServer.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\Newtonsoft.Json.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Net.Http.Formatting.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Helpers.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Http.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Http.WebHost.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Mvc.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Optimization.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Razor.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.WebPages.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\WebGrease.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\EntityFramework.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\EntityFramework.SqlServer.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\Newtonsoft.Json.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Net.Http.Formatting.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Helpers.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Http.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Http.WebHost.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Mvc.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Optimization.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Razor.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.WebPages.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\Antlr3.Runtime.pdb
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\obj\Debug\FactoryProject.csproj.AssemblyReference.cache
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\obj\Debug\FactoryProject.csproj.CoreCompileInputs.cache
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\obj\Debug\FactoryProject.csproj.CopyComplete
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\obj\Debug\FactoryProject.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\obj\Debug\FactoryProject.pdb
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Cors.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Http.Cors.dll
+C:\Users\maorm\Desktop\FactoryProject\FactoryProject\bin\System.Web.Http.Cors.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\FactoryProject.dll.config
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\FactoryProject.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\FactoryProject.pdb
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\csc.exe
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\csc.exe.config
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\csc.rsp
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\csi.exe
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\csi.exe.config
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\csi.rsp
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.AppContext.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Console.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Net.Http.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\vbc.exe
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\vbc.exe.config
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\vbc.rsp
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\Antlr3.Runtime.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\EntityFramework.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\EntityFramework.SqlServer.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\Newtonsoft.Json.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Net.Http.Formatting.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Cors.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Helpers.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Http.Cors.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Http.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Http.WebHost.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Mvc.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Optimization.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Razor.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.WebPages.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\WebGrease.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\EntityFramework.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\EntityFramework.SqlServer.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Net.Http.Formatting.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Http.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Http.Cors.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\Newtonsoft.Json.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Helpers.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Http.WebHost.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Mvc.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Optimization.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.Razor.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.WebPages.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\Antlr3.Runtime.pdb
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\obj\Debug\FactoryProject.csproj.AssemblyReference.cache
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\obj\Debug\FactoryProject.csproj.CoreCompileInputs.cache
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\obj\Debug\FactoryProject.csproj.CopyComplete
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\obj\Debug\FactoryProject.dll
+C:\Users\maorm\Desktop\FactoryProject 2.0\FactoryProject\obj\Debug\FactoryProject.pdb
