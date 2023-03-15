@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employees Page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+</head>
+<body onload="showEmployees()">
+    <div class="container">
+        <div id="nameHeader"><span id="name">!Not Logged In</span>
+            <input class="btn btn-warning btn-sm"  type="button" value="LogOut" onclick="logOut()">
+
+
+    <h1> Employees Page</h1><br>
+
+<input id="srchInput" type="text" placeholder="Search By Full Name">
+<input value="Search" type="button" onclick="searchPageRouter()" class="btn btn-dark">&nbsp;
+
+<input id="srchInputDep" type="text" placeholder="Search By Department">
+<input value="Search" type="button" onclick="searchPageRouterDep()" class="btn btn-info"><br><br>
+
+
+
+    <table border=1 id="tbl" class="table table-striped"></table>
+    </div>
+
+    <div id="addActions" class="container">
+        <input class="btn btn-primary" type="button" value="Add Employee" onclick="addEmployeeRouter()">
+
+    </div>
+ 
+    
+    
+    <script src="Functionality.js"></script>  
+
+</body>
+</html>

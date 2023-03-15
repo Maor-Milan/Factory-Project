@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Employee</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+</head>
+<body onload=" showName()">
+    <div class="container">
+      <div id="nameHeader"><span id="name">!Not Logged In</span>
+        <input class="btn btn-warning btn-sm"  type="button" value="LogOut" onclick="logOut()">
+
+
+    <h1>Edit Employee</h1>
+
+    <input id="empName" type="text" placeholder="Enter Employee Name"><br><br>
+    <input id="year" type="text" placeholder="Enter Starting Year"><br><br>
+    <form>
+        <div class="form-row align-items-center">
+          <div class="col-auto my-1">
+            <select id="depID" class="custom-select mr-sm-2" id="inlineFormCustomSelect">
+             
+            <option  selected> Choose Department Name</option>
+              <option  value="1">HR</option>
+              <option value="2">Security</option>
+              <option value="3">Finance</option>
+              <option value="4">IT</option>
+              <option value="5">Managment</option>
+            </select>
+          </div>
+          <div class="col-auto my-1">
+            <div class="custom-control custom-checkbox mr-sm-2">
+              <input type="checkbox" class="custom-control-input" id="customControlAutosizing">
+            </div>
+          </div>
+          <div class="col-auto my-1">
+          </div>
+        </div>
+      </form><br>
+    
+      &nbsp&nbsp  &nbsp&nbsp &nbsp &nbsp&nbsp &nbsp<button class="btn btn-primary" onclick="editEmployee()">Save</button>
+    </div>
+   
+   
+   
+   
+   
+    <script src="Functionality.js"></script>  
+
+</body>
+</html>

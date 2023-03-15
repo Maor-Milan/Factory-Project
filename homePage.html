@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+</head>
+<body onload="showName()">
+<div class="container">
+<div id="nameHeader"><span id="name">!Not Logged In</span>
+    <input class="btn btn-warning btn-sm"  type="button" value="LogOut" onclick="logOut()">
+
+</div><br>
+    <h1>Home Page</h1><br>
+ <button id="emp" type="button" onclick="homePageRouter('emp')" >Employees</button>
+ <button id="depr" type="button" onclick="homePageRouter('depr')" >Departments</button>
+ <button id="sfts" type="button" onclick="homePageRouter('sfts')" >Shifts</button>
+
+</div>
+
+
+ <script src="Functionality.js"></script>  
+
+</body>
+</html>

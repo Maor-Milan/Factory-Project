@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Department Page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+</head>
+<body onload="showName()" >
+    
+<div class="container">
+    <div id="nameHeader"><span id="name">!Not Logged In</span>
+        <input class="btn btn-warning btn-sm"  type="button" value="LogOut" onclick="logOut()">
+
+
+    <h1>Edit Department</h1>
+
+
+
+<input id="derpName" type="text" placeholder="Enter Department Name">
+<input id="mngrName" type="text" placeholder="Enter Department Manager">
+<button class="btn btn-primary" onclick="editDepartments()">Save</button>
+
+
+</div>
+
+
+
+    <script src="Functionality.js"></script>  
+
+</body>
+</html>
