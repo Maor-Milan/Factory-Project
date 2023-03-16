@@ -1,8 +1,19 @@
 # Factory-Project
-factory managment project based on:JS,ASP.NET and MSSQL
+## Description  
+Welcome to my first JavaScript project.  
+With this app as a admin you can simply manage employees,shifts and info like departments.  
 
-The server is CRUD operation.
-The server is made with ASP.NET and C#.
-The server is built with string of action like business logic who leads to the relevant controller,after that the information reacts to the related controller.
-The classes in this server are made with "Entiity Framework" who takes the related table from MSSQL and trnsforms her to a C# class.
-Some classes and data required a joined SQL table for broader information regarding a person or shift.
+## Project Description
+This project is my first attempt to do a full scale fullstack app.  
+It was a challanging experience to handle all the strings between the front pages and the back end while monitoring the DB is well updated.  
+My struggles with this project was to navigate with data between pages but like most code problams i succeeded to overcome the problams and complete the app.  
+
+
+## Technologies
+1.The front end is based on vanilla JS and contains html pages using basic css and bootstrap for the eye candy.  
+2.The back end is made with ASP.NET with C# using "Entity Framework" who converts SQL table to classes.  
+The back end use CRUD operation stracture with a link to MSSQL.  
+3.The data base is MSSQL.  
+
+
+
